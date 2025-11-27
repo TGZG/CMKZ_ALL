@@ -1,0 +1,11 @@
+body {
+    --file-line-width: 100%;
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+    padding-bottom: 0.35em;
+}
+
+.markdown-source-view.mod-cm6 table .cm-line {
+    padding-bottom: 0;
+}

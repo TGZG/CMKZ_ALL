@@ -1,0 +1,16 @@
+/* Canvas同步插件样式 */
+
+.canvas-sync-group {
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 5px;
+}
+
+.canvas-sync-group h4 {
+	margin-top: 0;
+}
+
+.canvas-sync-group ul {
+	padding-left: 20px;
+}
